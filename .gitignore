@@ -6,3 +6,7 @@
 # Build directory.
 build/
 out/
+
+# CLion
+.idea/
+cmake-build*/
